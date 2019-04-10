@@ -1,5 +1,5 @@
 import java.io.*;
-import java .util.*;
+import java.util.*;
 class Account
 {
     public int count1=0,count2=0,count3=0;
@@ -99,7 +99,7 @@ class Account
                         }
                     }
                 }
-                if((2015-Integer.valueOf(dob.substring(6,dob.length())))==age);
+                if((2019-Integer.valueOf(dob.substring(6,dob.length())))==age);
                 else
                 {
                     System.out.println("ERROR in Date of Birth");d1=1;
@@ -389,7 +389,7 @@ class Account
         {
             count=0;
             Scanner in =new Scanner(System.in);
-            System.out.println("enter the date of operation only in this format dd/mm/yyyy");
+            System.out.println("Enter the date of operation only in this format dd/mm/yyyy");
             date1[count1]=in.nextLine();
             String ch1=date1[count1];
             for(int i=0;i<date1[count1].length();i++)
