@@ -1,5 +1,5 @@
 # People's Bank
-This is a banking program which can be used to create an hold multiple accounts of mainly two types- Savings Bank Account and Recurring Deposit Account. This program enables the user to create an or multiple accounts by taking in the user's details,and provides a password for the next access to a particular account(unless the program hasn't been stopped from running).
+This is a banking program which can be used to create an hold multiple accounts of mainly two types- Savings Bank Account and Recurring Deposit Account. This program enables the user to create an or multiple accounts by taking in the user's details,and provides a password for the next access to a particular account(unless the program hasn't been terminated).
 
 # Savings Bank Account
 In this account two types of operations can be performed-Deposit and Withdrawal.
